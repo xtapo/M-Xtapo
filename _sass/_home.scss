@@ -41,7 +41,7 @@
   z-index: 1;
 
   @include media(">=sm") {
-    margin: 0 rem($itemMargin) rem(120px);
+    margin: 0 rem($itemMargin) rem(30px);
   }
 
   // Note 1: This complex calc right here is what makes the leftover box items
