@@ -17,6 +17,14 @@
                     {% endif %}
                     <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
                     <span>{{ minutesText }}</span>
+
+
+                          {% for tag in post.tags %}
+                              {% if tag != "" %}
+                                  <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
+                              {% endif %}
+                          {% endfor %}
+        
                 </p>
                 <h1 class="post-title">{{ page.title }}</h1>
                 <p class="post-subtitle">{{ page.subtitle }}</p>
