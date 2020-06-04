@@ -346,8 +346,8 @@ collections:
             name: "button"
             widget: "object"
             fields:
-              - label: "Read Now"
-                name: "read_now"
+              - label: "Watch now"
+                name: "watch_now"
                 widget: "string"
                 required: false
               - label: "Share on Twitter"
@@ -510,5 +510,3 @@ collections:
             name: "sent_message_url"
             hint: "URL where the user will be redirected for after submit the contact form. Ex: /contact/message-sent/"
             required: false
-
-
