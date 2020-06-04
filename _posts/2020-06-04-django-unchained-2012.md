@@ -30,7 +30,7 @@ src="https://www.youtube.com/embed/MW4t7gtPFnc" width="640"></iframe>
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <script>
- var link1 = "https://www.youtube.com/embed/MW4t7gtPFnc"
+ var link1 = "https://www.fembed.com/v/7ry-jsg81nmdqrk"
  var link2 = "https://www.dailymotion.com/embed/video/x7uafke"
  var link3 = "https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads"
 
