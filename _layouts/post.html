@@ -15,15 +15,15 @@
                             {% include date.html date=page.date %}
                         </time>
                     {% endif %}
-                    <div class="tags">
+                    <span>
                           {% for tag in page.tags %}
                               {% if tag != "" %}
                                   <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
                               {% endif %}
                           {% endfor %}
-                      </div>
-                    <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
-                    <span>{{ minutesText }}</span>
+                    </span>
+                <!-- Thoi Gian doc    <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
+                    <span>{{ minutesText }}</span> -->
 
 
                 </p>
