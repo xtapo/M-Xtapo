@@ -102,6 +102,7 @@
     padding: 0;
     margin-top: rem(20px);
     margin-bottom: rem(20px);
+    box-shadow: 9px 9px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
     @include media(">=sm") {
       margin-top: rem(29px);
