@@ -32,7 +32,7 @@ src="https://www.youtube.com/embed/MW4t7gtPFnc" width="640"></iframe>
 <script>
  var link1 = "https://www.youtube.com/embed/MW4t7gtPFnc"
  var link2 = "https://www.dailymotion.com/embed/video/x7uafke"
- var link3 = ""
+ var link3 = "https://www.fembed.com/v/7ry-jsg81nmdqrk"
 
  function link_1() {
  var x = document.getElementsByClassName("button_link");
