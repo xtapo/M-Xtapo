@@ -27,15 +27,15 @@ In 1858, a bounty hunter named Schultz seeks out a slave named Django and buys h
      
 
 <figure class="video_container">
- <iframe width="560" height="315" src="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" frameborder="0" name="phim" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" frameborder="0" name="link" allowfullscreen></iframe>
 
   <div id="third-party-server"><ul class="server-list">           
     <li class="backup-server">              
     <span class="server-title">Link dự phòng</span>             
     <ul class="list-episode">               
     <li class="episode">                              
-    <a  href="https://www.fembed.com/v/7ry-jsg81nmdqrk" target="phim">#6 PZC</a>      
-    <a  href="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" target="phim">#2 PZC</a>           
+    <a  href="https://www.fembed.com/v/7ry-jsg81nmdqrk" target="link">#6 PZC</a>      
+    <a  href="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" target="link">#2 PZC</a>           
        </li>                                                                 
   </ul>           
 </li>         
