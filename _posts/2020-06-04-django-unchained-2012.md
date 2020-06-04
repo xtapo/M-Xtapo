@@ -14,9 +14,8 @@ tags:
 author: thiagorossener
 ---
 
-<iframe width="560" height="315" src="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" frameborder="0" name="phim" allowfullscreen></iframe>
-  
-
+<figure class="video_container">
+ <iframe width="560" height="315" src="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" frameborder="0" name="phim" allowfullscreen></iframe>
 
   <div id="third-party-server"><ul class="server-list">           <li class="backup-server">              
     <span class="server-title">Link dự phòng</span>             
@@ -27,6 +26,7 @@ author: thiagorossener
   </ul>           
 </li>         
 </ul></div>
+</figure>
 
 ### Synopsis
 In 1858, a bounty hunter named Schultz seeks out a slave named Django and buys him because he needs him to find some men he is looking for. After finding them, Django wants to find his wife, Broomhilda, who along with him were sold separately by his former owner for trying to escape. Schultz offers to help him if he chooses to stay with him and be his partner. Eventually they learn that she was sold to a plantation in Mississippi. Knowing they can't just go in and say they want her, they come up with a plan so that the owner will welcome them into his home and they can find a way.  
