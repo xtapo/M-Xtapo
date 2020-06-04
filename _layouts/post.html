@@ -15,6 +15,13 @@
                             {% include date.html date=page.date %}
                         </time>
                     {% endif %}
+                    <div class="tags">
+                          {% for tag in page.tags %}
+                              {% if tag != "" %}
+                                  <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
+                              {% endif %}
+                          {% endfor %}
+                      </div>
                     <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
                     <span>{{ minutesText }}</span>
 
@@ -22,13 +29,7 @@
                 </p>
                 <h1 class="post-title">{{ page.title }}</h1>
                 <p class="post-subtitle">{{ page.subtitle }}</p>
-                <div class="tags">
-                      {% for tag in page.tags %}
-                          {% if tag != "" %}
-                              <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
-                          {% endif %}
-                      {% endfor %}
-                  </div>
+
                 {% if page.image and paginator.activated == nil %}
                     <img src="{{ page.image }}" alt="Featured image" class="post-cover">
                 {% endif %}
