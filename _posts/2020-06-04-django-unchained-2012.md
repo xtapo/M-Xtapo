@@ -31,8 +31,8 @@ author: thiagorossener
 .button_link {
     font-size: 13.3333px;
     font-family: 'Quicksand', sans-serif!important;
-    background-color: black;
-    border: 1px solid #7a00cc;
+    background-color: #ff0101;
+    border: 1px solid #000000;
     color: #fff;
     padding: 10px 20px;
     margin: 2px 2px;
