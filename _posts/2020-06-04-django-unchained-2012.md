@@ -17,7 +17,7 @@ author: thiagorossener
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <div class="video-wrapper">
-<iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0" height="360" 
+<iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0" height="390" 
 src="https://www.youtube.com/embed/MW4t7gtPFnc" height="315"></iframe>
 </div>
 
@@ -40,14 +40,14 @@ src="https://www.youtube.com/embed/MW4t7gtPFnc" height="315"></iframe>
  {x[i].classList.remove("button_link_clicked")}
  x[0].classList.add("button_link_clicked");
  document.getElementById("myframe").src = link1;}
- 
+
  function link_2() {
  var x = document.getElementsByClassName("button_link");
  for (var i=0; i < x.length; i++)
  {x[i].classList.remove("button_link_clicked")}
  x[1].classList.add("button_link_clicked");
  document.getElementById("myframe").src = link2;}
- 
+
  function link_3() {
  var x = document.getElementsByClassName("button_link");
  for (var i=0; i < x.length; i++)
@@ -85,20 +85,20 @@ src="https://www.youtube.com/embed/MW4t7gtPFnc" height="315"></iframe>
 
 <script>
  function clearfocus()
- { 
+ {
  var x = document.getElementsByClassName("button_movie");
  for (var i=0; i < x.length; i++)
  {x[i].classList.remove("button_movie_clicked")}
  }
 
- function myframe() 
+ function myframe()
  {
  var x = document.getElementsByClassName("button_link");
  for (var i=0; i < x.length; i++)
  {x[i].classList.remove("button_link_clicked")}
  document.getElementById("myframe").src = link1;
  }
- 
+
  var link1_01 = "https://moekawaii.stream/embed/hhkungfu.php?id=rjpd36w51tu9"
  var link1_02 = "https://moekawaii.stream/embed/hhkungfu.php?id=nvildocnowpx"
  var link1_03 = "https://moekawaii.stream/embed/hhkungfu.php?id=wit6j8nmy4z7"
@@ -123,7 +123,7 @@ src="https://www.youtube.com/embed/MW4t7gtPFnc" height="315"></iframe>
  var link1_22 = "https://moekawaii.stream/embed/hhkungfu.php?id=4hy8dw3j3yql"
  var link1_23 = "https://moekawaii.stream/embed/hhkungfu.php?id=w0gsnzyhvscd"
  var link1_24 = "https://www.youtube.com/embed/MW4t7gtPFnc"
-  
+
  function tap_01() {link1 = link1_01;link2 = "";link3 = "";var y = document.getElementById("01");y.classList.add("button_movie_clicked");}
  function tap_02() {link1 = link1_02;link2 = "";link3 = "";var y = document.getElementById("02");y.classList.add("button_movie_clicked");}
  function tap_03() {link1 = link1_03;link2 = "";link3 = "";var y = document.getElementById("03");y.classList.add("button_movie_clicked");}
@@ -159,7 +159,7 @@ In 1858, a bounty hunter named Schultz seeks out a slave named Django and buys h
 **Writer**: Quentin Tarantino.  
 
 **Stars**: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio...  
-     
+
 
 <figure class="video_container">
  <iframe width="560" height="315" src="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" frameborder="0" name="link" allowfullscreen></iframe>
@@ -176,4 +176,3 @@ In 1858, a bounty hunter named Schultz seeks out a slave named Django and buys h
 </li>         
 </ul></div>
 </figure>
-
