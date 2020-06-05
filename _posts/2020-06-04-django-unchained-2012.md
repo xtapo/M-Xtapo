@@ -14,6 +14,8 @@ tags:
   - passion
 author: thiagorossener
 ---
+<link rel="stylesheet" type="text/css" href="/assets/css/player.css">
+
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <div class="video-wrapper">
