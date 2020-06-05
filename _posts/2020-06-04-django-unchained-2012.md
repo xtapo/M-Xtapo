@@ -13,11 +13,18 @@ tags:
   - passion
 author: thiagorossener
 ---
-
+<style>
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+</style>
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <div class="video-wrapper">
-<iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0" width="auto" height="390"
+<iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0" width="560" height="390"
 src="https://www.youtube.com/embed/MW4t7gtPFnc"></iframe>
 </div>
 
