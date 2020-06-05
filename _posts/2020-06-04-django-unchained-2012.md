@@ -27,7 +27,7 @@ author: thiagorossener
     left: 0;
     width: 100%;
     height: 100%;
-
+}
 .button_link {
     font-size: 13.3333px;
     font-family: 'Quicksand', sans-serif!important;
@@ -38,7 +38,7 @@ author: thiagorossener
     margin: 2px 2px;
     cursor: pointer;
     float: left;
-}
+
 }
 </style>
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
