@@ -17,7 +17,7 @@ author: thiagorossener
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <div class="video-wrapper">
-<iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0" width="560" height="315"
+<iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0" width="auto" height="390"
 src="https://www.youtube.com/embed/MW4t7gtPFnc"></iframe>
 </div>
 
