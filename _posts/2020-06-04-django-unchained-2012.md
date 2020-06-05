@@ -44,8 +44,19 @@ author: thiagorossener
         background-color: #fff;
         color: #000000;
         border: 1px solid #0d0d0d;
+}     
 
-
+.button_link_clicked {
+    font-weight: 600;
+    font-size: 13.3333px;
+    font-family: 'Quicksand', sans-serif!important;
+    background-color: #fff;
+    border: 1px solid #0d0d0d;
+    color: #000000;
+    padding: 10px 20px;
+    margin: 2px 2px;
+    cursor: pointer;
+    float: left;
 }
 </style>
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
