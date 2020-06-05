@@ -38,6 +38,13 @@ author: thiagorossener
     margin: 2px 2px;
     cursor: pointer;
     float: left;
+}
+.button_link_clicked:hover {
+        font-weight: 600;
+        background-color: #fff;
+        color: #000000;
+        border: 1px solid #0d0d0d;
+
 
 }
 </style>
