@@ -34,7 +34,7 @@ src="https://www.youtube.com/embed/MW4t7gtPFnc" width="640"></iframe>
 <script>
  var link1 = "https://www.fembed.com/v/7ry-jsg81nmdqrk"
  var link2 = "https://www.dailymotion.com/embed/video/x7uafke"
- var link3 = "https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads"
+ var link3 = "https://dood.to/e/si48cakeci2o"
 
  function link_1() {
  var x = document.getElementsByClassName("button_link");
