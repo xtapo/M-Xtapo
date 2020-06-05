@@ -1,6 +1,19 @@
 ---
 date: 2020-06-04 07:00:00
 layout: post
+
+title: Grab your band and get out
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+image: /assets/img/uploads/django-unchained.jpg
+optimized_image: /assets/img/uploads/django-unchained.jpg
+category: music
+tags:
+  - music
+  - band
+  - passion
+author: thiagorossener
+---
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <div class="video-wrapper">
@@ -42,19 +55,6 @@ src="https://www.youtube.com/embed/MW4t7gtPFnc" width="640"></iframe>
  x[2].classList.add("button_link_clicked");
  document.getElementById("myframe").src = link3;}
 </script>
-
-title: Grab your band and get out
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: /assets/img/uploads/django-unchained.jpg
-optimized_image: /assets/img/uploads/django-unchained.jpg
-category: music
-tags:
-  - music
-  - band
-  - passion
-author: thiagorossener
----
 
 
 ### Synopsis
