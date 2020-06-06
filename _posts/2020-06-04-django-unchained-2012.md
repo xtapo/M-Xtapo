@@ -31,7 +31,7 @@ src="https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4X
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <script>
- var link1 = "https://www.fembed.com/v/z7-x5ajeq44j4k6"
+ var link1 = "https://abcvideo.cc/embed-zjf3tnpghphw.html"
  var link2 = "https://streamtape.com/e/ox3W7rz2xAUJgLD/"
  var link3 = "https://embed.mystream.to/zr07zxkhkgdz"
 
