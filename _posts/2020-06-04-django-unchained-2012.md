@@ -2,9 +2,8 @@
 date: 2020-06-04 07:00:00
 layout: post
 
-title: Grab your band and get out
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Django Unchained (2012)
+subtitle: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
 image: /assets/img/uploads/django-unchained.jpg
 optimized_image: /assets/img/uploads/django-unchained.jpg
 category: music
@@ -20,7 +19,7 @@ author: thiagorossener
 
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
-src="https://www.youtube.com/embed/MW4t7gtPFnc" width="640"></iframe>
+src="https:/gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4XKfWSeDNxO0lz8giPcPF7ppvOcO%252BDnTX3tvdTqkgY3uoAnZMnTzkOO5kM5dRqyR6mejUSzzPUs1b6nZ1eRfNoLhBcfe%252BWABnKZWRdb5CTqrL6mh4MqRqIDIkwZkBPWYvLLJF1N%252FrJE88fM2hAbply1gmv4HZYSoKODTUlEMf5jIKc11Eeqi5Br3U" width="640"></iframe>
 </div>
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
@@ -32,7 +31,7 @@ src="https://www.youtube.com/embed/MW4t7gtPFnc" width="640"></iframe>
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <script>
- var link1 = "https://www.fembed.com/v/7ry-jsg81nmdqrk"
+ var link1 = "https://www.fembed.com/v/z7-x5ajeq44j4k6"
  var link2 = "https://www.dailymotion.com/embed/video/x7uafke"
  var link3 = "https://dood.to/e/si48cakeci2o"
 
