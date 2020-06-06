@@ -33,7 +33,7 @@ src="https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4X
 <script>
  var link1 = "https://www.fembed.com/v/z7-x5ajeq44j4k6"
  var link2 = "https://www.dailymotion.com/embed/video/x7uafke"
- var link3 = "https://dood.to/e/si48cakeci2o"
+ var link3 = ""
 
  function link_1() {
  var x = document.getElementsByClassName("button_link");
