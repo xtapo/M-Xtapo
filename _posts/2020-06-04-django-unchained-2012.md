@@ -6,12 +6,10 @@ title: Django Unchained (2012)
 subtitle: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
 image: /assets/img/uploads/django-unchained.jpg
 optimized_image: /assets/img/uploads/django-unchained.jpg
-category: music
+category: Movies
 tags:
-  - music
-  - band
-  - passion
-author: thiagorossener
+  - Drama
+  - Western
 ---
 <link rel="stylesheet" type="text/css" href="/assets/css/player.css">
 
