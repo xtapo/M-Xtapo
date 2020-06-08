@@ -32,7 +32,7 @@ src="https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4X
 <script>
  var link1 = "https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4XKfWSeDNxO0lz8giPcPF7ppvOcO%252BDnTX3tvdTqkgY3uoAnZMnTzkOO5kM5dRqyR6mejUSzzPUs1b6nZ1eRfNoLhBcfe%252BWABnKZWRdb5CTqrL6mh4MqRqIDIkwZkBPWYvLLJF1N%252FrJE88fM2hAbply1gmv4HZYSoKODTUlEMf5jIKc11Eeqi5Br3U"
  var link2 = "https://www.fembed.com/v/z7-x5ajeq44j4k6"
- var link3 = "https://embed.mystream.to/zr07zxkhkgdz"
+ var link3 = "https://ok.ru/videoembed/1329542859490"
 
  function link_1() {
  var x = document.getElementsByClassName("button_link");
