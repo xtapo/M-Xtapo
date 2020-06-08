@@ -17,11 +17,12 @@ author: thiagorossener
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
+<figure class="video_container">
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
 src="https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4XKfWSeDNxO0lz8giPcPF7ppvOcO%252BDnTX3tvdTqkgY3uoAnZMnTzkOO5kM5dRqyR6mejUSzzPUs1b6nZ1eRfNoLhBcfe%252BWABnKZWRdb5CTqrL6mh4MqRqIDIkwZkBPWYvLLJF1N%252FrJE88fM2hAbply1gmv4HZYSoKODTUlEMf5jIKc11Eeqi5Br3U" width="640"></iframe>
 </div>
-
+</figure>
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <button class="button_link" onclick="link_1()">Link 1</button>
@@ -67,19 +68,3 @@ In 1858, a bounty hunter named Schultz seeks out a slave named Django and buys h
 
 **Stars**: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio...  
 
-
-<figure class="video_container">
- <iframe width="560" height="315" src="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" frameborder="0" name="link" allowfullscreen></iframe>
-
-  <div id="third-party-server"><ul class="server-list">           
-    <li class="backup-server">              
-    <span class="server-title">Link dự phòng</span>             
-    <ul class="list-episode">               
-    <li class="episode">                              
-    <a  href="https://www.fembed.com/v/7ry-jsg81nmdqrk" target="link">#6 PZC</a>      
-    <a  href="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" target="link">#2 PZC</a>           
-       </li>                                                                 
-  </ul>           
-</li>         
-</ul></div>
-</figure>
