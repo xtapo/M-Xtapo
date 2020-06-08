@@ -30,8 +30,8 @@ src="https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4X
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <script>
- var link1 = "https://abcvideo.cc/embed-zjf3tnpghphw.html"
- var link2 = "https://streamtape.com/e/ox3W7rz2xAUJgLD/"
+ var link1 = "https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4XKfWSeDNxO0lz8giPcPF7ppvOcO%252BDnTX3tvdTqkgY3uoAnZMnTzkOO5kM5dRqyR6mejUSzzPUs1b6nZ1eRfNoLhBcfe%252BWABnKZWRdb5CTqrL6mh4MqRqIDIkwZkBPWYvLLJF1N%252FrJE88fM2hAbply1gmv4HZYSoKODTUlEMf5jIKc11Eeqi5Br3U"
+ var link2 = "https://www.fembed.com/v/z7-x5ajeq44j4k6"
  var link3 = "https://embed.mystream.to/zr07zxkhkgdz"
 
  function link_1() {
