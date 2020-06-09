@@ -18,7 +18,7 @@ tags:
 <figure class="video_container">
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
-src="https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4XKfWSeDNxO0lz8giPcPF7ppvOcO%252BDnTX3tvdTqkgY3uoAnZMnTzkOO5kM5dRqyR6mejUSzzPUs1b6nZ1eRfNoLhBcfe%252BWABnKZWRdb5CTqrL6mh4MqRqIDIkwZkBPWYvLLJF1N%252FrJE88fM2hAbply1gmv4HZYSoKODTUlEMf5jIKc11Eeqi5Br3U" width="640"></iframe>
+src="https://api.xtapo.com/gd-cp/embed.php?data=Y2ebX/lMKWhJ8CJl9LgS3SEAQajI5BgFsJCFwElG67BwRh90ACKr8YtxGVhzxsDXvhGScMWhTUlxBXBk4iMWqYe4Ww6DGrd3zN0zxetJYKZHOcGUFLOOF/d4LpwX/ELntvrxWvUBY6b9ceoWwUlZx4kUeWU+mWWpSKHMvi5D5EUq+99MOFOfpENa2FO2FqAWpri6BabYf1QnGq+yTKUrHcaNgMbo9q611DfQ8G/fmwrZMpsbS4e88sJybnABwOnKY5qH9MuC36sOpFmbsz7B7C6YZi9xKZUrtpXBAzr+aak8GVZ0olIaHF+4BTuq3lQphkqSzrPtqDYkuEUHhekKQT8Ozpd/9wST9QwBfofIFHPMJ5bhoHG3oCc3/Yg9xrxO" width="640"></iframe>
 </div>
 </figure>
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
@@ -32,7 +32,7 @@ src="https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4X
 <script>
  var link1 = "https://api.xtapo.com/gd-cp/embed.php?data=Y2ebX/lMKWhJ8CJl9LgS3SEAQajI5BgFsJCFwElG67BwRh90ACKr8YtxGVhzxsDXvhGScMWhTUlxBXBk4iMWqYe4Ww6DGrd3zN0zxetJYKZHOcGUFLOOF/d4LpwX/ELntvrxWvUBY6b9ceoWwUlZx4kUeWU+mWWpSKHMvi5D5EUq+99MOFOfpENa2FO2FqAWpri6BabYf1QnGq+yTKUrHcaNgMbo9q611DfQ8G/fmwrZMpsbS4e88sJybnABwOnKY5qH9MuC36sOpFmbsz7B7C6YZi9xKZUrtpXBAzr+aak8GVZ0olIaHF+4BTuq3lQphkqSzrPtqDYkuEUHhekKQT8Ozpd/9wST9QwBfofIFHPMJ5bhoHG3oCc3/Yg9xrxO"
  var link2 = "https://www.fembed.com/v/z7-x5ajeq44j4k6"
- var link3 = "https://ok.ru/videoembed/1329542859490"
+ var link3 = "https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4XKfWSeDNxO0lz8giPcPF7ppvOcO%252BDnTX3tvdTqkgY3uoAnZMnTzkOO5kM5dRqyR6mejUSzzPUs1b6nZ1eRfNoLhBcfe%252BWABnKZWRdb5CTqrL6mh4MqRqIDIkwZkBPWYvLLJF1N%252FrJE88fM2hAbply1gmv4HZYSoKODTUlEMf5jIKc11Eeqi5Br3U"
 
  function link_1() {
  var x = document.getElementsByClassName("button_link");
