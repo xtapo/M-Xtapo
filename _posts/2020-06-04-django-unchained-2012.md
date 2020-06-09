@@ -30,7 +30,7 @@ src="https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4X
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <script>
- var link1 = "https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4XKfWSeDNxO0lz8giPcPF7ppvOcO%252BDnTX3tvdTqkgY3uoAnZMnTzkOO5kM5dRqyR6mejUSzzPUs1b6nZ1eRfNoLhBcfe%252BWABnKZWRdb5CTqrL6mh4MqRqIDIkwZkBPWYvLLJF1N%252FrJE88fM2hAbply1gmv4HZYSoKODTUlEMf5jIKc11Eeqi5Br3U"
+ var link1 = "https://api.xtapo.com/gd-cp/embed.php?data=Y2ebX/lMKWhJ8CJl9LgS3SEAQajI5BgFsJCFwElG67BwRh90ACKr8YtxGVhzxsDXvhGScMWhTUlxBXBk4iMWqYe4Ww6DGrd3zN0zxetJYKZHOcGUFLOOF/d4LpwX/ELntvrxWvUBY6b9ceoWwUlZx4kUeWU+mWWpSKHMvi5D5EUq+99MOFOfpENa2FO2FqAWpri6BabYf1QnGq+yTKUrHcaNgMbo9q611DfQ8G/fmwrZMpsbS4e88sJybnABwOnKY5qH9MuC36sOpFmbsz7B7C6YZi9xKZUrtpXBAzr+aak8GVZ0olIaHF+4BTuq3lQphkqSzrPtqDYkuEUHhekKQT8Ozpd/9wST9QwBfofIFHPMJ5bhoHG3oCc3/Yg9xrxO"
  var link2 = "https://www.fembed.com/v/z7-x5ajeq44j4k6"
  var link3 = "https://ok.ru/videoembed/1329542859490"
 
@@ -65,4 +65,3 @@ In 1858, a bounty hunter named Schultz seeks out a slave named Django and buys h
 **Writer**: Quentin Tarantino.  
 
 **Stars**: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio...  
-
