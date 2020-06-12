@@ -17,7 +17,7 @@ tags:
 
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
-src="https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4XKfWSeDNxO0lz8giPcPF7ppvOcO%252BDnTX3tvdTqkgY3uoAnZMnTzkOO5kM5dRqyR6mejUSzzPUs1b6nZ1eRfNoLhBcfe%252BWABnKZWRdb5CTqrL6mh4MqRqIDIkwZkBPWYvLLJF1N%252FrJE88fM2hAbply1gmv4HZYSoKODTUlEMf5jIKc11Eeqi5Br3U" width="640"></iframe>
+src="https://api2-xtapo.herokuapp.com/?link=https://drive.google.com/file/d/1WKkQfngj3gBp9fvtUlA0meuEuTKQYieS/view?usp=sharing&poster=https://movies.xtapo.com/assets/img/uploads/django-unchained.jpg" width="640"></iframe>
 </div>
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
@@ -29,9 +29,9 @@ src="https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4X
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <script>
- var link1 = "https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4XKfWSeDNxO0lz8giPcPF7ppvOcO%252BDnTX3tvdTqkgY3uoAnZMnTzkOO5kM5dRqyR6mejUSzzPUs1b6nZ1eRfNoLhBcfe%252BWABnKZWRdb5CTqrL6mh4MqRqIDIkwZkBPWYvLLJF1N%252FrJE88fM2hAbply1gmv4HZYSoKODTUlEMf5jIKc11Eeqi5Br3U"
+ var link1 = "https://playhydrax.com/?v=IISu5yOaUZ"
  var link2 = "https://www.fembed.com/v/z7-x5ajeq44j4k6"
- var link3 = "https://ok.ru/videoembed/1329542859490"
+ var link3 = "https://gdriveplayer.me/embed2.php?link=qvlV1J1kXx7iiEg52lxXHAu1%252F8KtS4XKfWSeDNxO0lz8giPcPF7ppvOcO%252BDnTX3tvdTqkgY3uoAnZMnTzkOO5kM5dRqyR6mejUSzzPUs1b6nZ1eRfNoLhBcfe%252BWABnKZWRdb5CTqrL6mh4MqRqIDIkwZkBPWYvLLJF1N%252FrJE88fM2hAbply1gmv4HZYSoKODTUlEMf5jIKc11Eeqi5Br3U"
 
  function link_1() {
  var x = document.getElementsByClassName("button_link");
@@ -64,4 +64,3 @@ In 1858, a bounty hunter named Schultz seeks out a slave named Django and buys h
 **Writer**: Quentin Tarantino.  
 
 **Stars**: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio...  
-
