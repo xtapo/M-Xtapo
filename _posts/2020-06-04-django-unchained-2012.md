@@ -12,7 +12,7 @@ tags:
   - Western
 ---
 
-Django Unchained (2012)   
+<div class="title-movie"> Django Unchained (2012) </div>   
 
 <link rel="stylesheet" type="text/css" href="/assets/css/player.css">
 
