@@ -20,7 +20,7 @@ tags:
 
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
-src="https://playhydrax.com/?v=67JSw_AJR" width="640"></iframe>
+src="https://api.xtapo.com/gd-cp/embed.php?data=wyE7eMRZRU4aoO1Qp5vUwN7sWfj/nq81/uaFaGDaNSBQ8MVqCD/CPNN0HH9kGCFuNfT+wuNd3dcDPngKQSp47qDRKXHU3jK/liJcM1+5ec3+NWNTy/sYz3DGcCRuDEDwjsGat3JE+5W/1DlKnqLDDPjeLHuIwCA9iCLVLedaPu9wFSf/MqV/tdAiIHMCcTsAGSrwYsX0YzzSJn5cmCftM1lwm473x99xDahQMFb+8irnZZrW9RSoMWzMgVDuy1kf" width="640"></iframe>
 </div>
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
