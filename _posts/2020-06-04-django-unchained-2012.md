@@ -17,7 +17,7 @@ tags:
 
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
-src="https://api2-xtapo.herokuapp.com/?link=https://drive.google.com/file/d/1WKkQfngj3gBp9fvtUlA0meuEuTKQYieS/view?usp=sharing&poster=https://movies.xtapo.com/assets/img/uploads/django-unchained.jpg" width="640"></iframe>
+src="https://playhydrax.com/?v=67JSw_AJR" width="640"></iframe>
 </div>
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
@@ -29,7 +29,7 @@ src="https://api2-xtapo.herokuapp.com/?link=https://drive.google.com/file/d/1WKk
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <script>
- var link1 = "https://playhydrax.com/?v=C6jbYeqnVQ"
+ var link1 = "https://playhydrax.com/?v=67JSw_AJR"
  var link2 = "https://www.fembed.com/v/z7-x5ajeq44j4k6"
  var link3 = "https://database.gdriveplayer.me/player.php?imdb=tt1853728"
 
