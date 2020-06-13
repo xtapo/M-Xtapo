@@ -11,10 +11,11 @@ tags:
   - Drama
   - Western
 ---
+<link rel="stylesheet" type="text/css" href="/assets/css/player.css">
+
 
 <div class="title-movie"> Django Unchained (2012) </div>   
 
-<link rel="stylesheet" type="text/css" href="/assets/css/player.css">
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
