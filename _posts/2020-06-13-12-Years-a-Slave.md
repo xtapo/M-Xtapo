@@ -1,15 +1,16 @@
 ---
-date: 2020-06-04 07:00:00
+date: 2020-06-13 07:00:00
 layout: post
 
-title: Django Unchained (2012)
-description: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
-image: /assets/img/uploads/django-unchained.jpg
-optimized_image: /assets/img/uploads/django-unchained.jpg
+title: 12 Years a Slave (2013)
+description: In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.
+image: /assets/img/uploads/12-years-a-slave-movie.jpg.jpg
+optimized_image: /assets/img/uploads/12-years-a-slave-movie.jpg.jpg
 category: Movies
 tags:
   - Drama
-  - Western
+  - Biography
+  - History
 ---
 <link rel="stylesheet" type="text/css" href="/assets/css/player.css">
 
@@ -17,7 +18,7 @@ tags:
 
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
-src="https://playhydrax.com/?v=67JSw_AJR" width="640"></iframe>
+src="https://playhydrax.com/?v=C6jbYeqnVQ" width="640"></iframe>
 </div>
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
@@ -29,9 +30,9 @@ src="https://playhydrax.com/?v=67JSw_AJR" width="640"></iframe>
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <script>
- var link1 = "https://playhydrax.com/?v=67JSw_AJR"
- var link2 = "https://www.fembed.com/v/z7-x5ajeq44j4k6"
- var link3 = "https://database.gdriveplayer.me/player.php?imdb=tt1853728"
+ var link1 = "https://playhydrax.com/?v=C6jbYeqnVQ"
+ var link2 = "https://www.fembed.com/v/pyrpxam267ldjxx"
+ var link3 = "https://database.gdriveplayer.me/player.php?imdb=tt2024544"
 
  function link_1() {
  var x = document.getElementsByClassName("button_link");
@@ -57,10 +58,10 @@ src="https://playhydrax.com/?v=67JSw_AJR" width="640"></iframe>
 
 
 ### Synopsis
-In 1858, a bounty hunter named Schultz seeks out a slave named Django and buys him because he needs him to find some men he is looking for. After finding them, Django wants to find his wife, Broomhilda, who along with him were sold separately by his former owner for trying to escape. Schultz offers to help him if he chooses to stay with him and be his partner. Eventually they learn that she was sold to a plantation in Mississippi. Knowing they can't just go in and say they want her, they come up with a plan so that the owner will welcome them into his home and they can find a way.  
+Based on an incredible true story of one man's fight for survival and freedom. In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty personified by a malevolent slave owner, as well as unexpected kindnesses, Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon's chance meeting with a Canadian abolitionist will forever alter his life. Written by Fox Searchlight.   
 
-**Director**: Quentin Tarantino.  
+**Director**: Steve McQueen.    
 
-**Writer**: Quentin Tarantino.  
+**Writer**: John Ridley (screenplay by), Solomon Northup (based on "Twelve Years a Slave" by). 
 
-**Stars**: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio...  
+**Stars**: Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender...  
