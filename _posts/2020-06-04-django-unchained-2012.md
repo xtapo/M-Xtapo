@@ -2,7 +2,7 @@
 date: 2020-06-04 07:00:00
 layout: post
 
-title: Django Unchained (2012)
+title: Django Unchained
 description: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
 image: /assets/img/uploads/django-unchained.jpg
 optimized_image: /assets/img/uploads/django-unchained.jpg
@@ -11,6 +11,9 @@ tags:
   - Drama
   - Western
 ---
+
+Django Unchained (2012)   
+
 <link rel="stylesheet" type="text/css" href="/assets/css/player.css">
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
