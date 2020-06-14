@@ -6,7 +6,7 @@ title: Django Unchained
 description: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
 image: /assets/img/uploads/django-unchained.jpg
 optimized_image: /assets/img/uploads/django-unchained.jpg
-category: Movies
+category: movies
 tags:
   - Drama
   - Western

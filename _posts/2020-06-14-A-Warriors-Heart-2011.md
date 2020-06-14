@@ -6,7 +6,7 @@ title: A Warrior's Heart
 description: A talented high school lacrosse player deals with the pain from his military dad's death, a resentful new coach, and consequences of his own arrogance.
 image: /assets/img/uploads/A-Warriors-Heart-2011.jpg
 optimized_image: /assets/img/uploads/A-Warriors-Heart-2011.jpg
-category: Movies
+category: movies
 tags:
   - Action
   - Drama

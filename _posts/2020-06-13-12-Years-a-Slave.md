@@ -6,7 +6,7 @@ title: 12 Years a Slave (2013)
 description: In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.
 image: /assets/img/uploads/12-years-a-slave-movie.jpg
 optimized_image: /assets/img/uploads/12-years-a-slave-movie.jpg
-category: Movies
+category: movies
 tags:
   - Drama
   - Biography
