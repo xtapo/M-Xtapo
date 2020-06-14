@@ -21,7 +21,7 @@ tags:
 
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
-src="https://playhydrax.com/?v=uRsQg4c4C&sub=https://movies.xtapo.com/assets/sub/Green-Book-2018.srt&sub-lang=English" width="640"></iframe>
+src="https://playhydrax.com/?v=l6_lcXJFEG&sub=https://movies.xtapo.com/assets/sub/Guardians-of-the-Galaxy-2014.srt&sub-lang=English" width="640"></iframe>
 </div>
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
@@ -33,9 +33,9 @@ src="https://playhydrax.com/?v=uRsQg4c4C&sub=https://movies.xtapo.com/assets/sub
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <script>
- var link1 = "https://playhydrax.com/?v=uRsQg4c4C&sub=https://movies.xtapo.com/assets/sub/Green-Book-2018.srt&sub-lang=English"
- var link2 = "https://gdriveplayer.me/embed2.php?link=MM7eahg4eO%252FUN00GEyZdbwdxdoVCGH4HU%252F9OQ9hqFKjqMCRnlcWLR2G0nbs%252BnbRFWld%252FI4ji8oSGxiRvIgE9rBc84PUmSgLvn55%252Fp1gvO3G2QPNwQZlscfXHERhOlABSr9hEkXRhf3XqX5hY6TRLEC46RNpZyQXOQOHX1HtXozdnQ8iQ2fXG8fu3GAX5obd90PI4mQVUW8DVfPUSfupzpgKZ3fZSY%252FCd15LdZxs%252FZZtWoqDFgTHLEcMUwk4Ew%252FSJDOudHv5fxCLEoZfwo%252FAy6X5Td9FhkpV5QvGv9607HTnQ%253D%253D"
- var link3 = "https://database.gdriveplayer.me/player.php?imdb=tt6966692"
+ var link1 = "https://playhydrax.com/?v=l6_lcXJFEG&sub=https://movies.xtapo.com/assets/sub/Guardians-of-the-Galaxy-2014.srt&sub-lang=English"
+ var link2 = "https://www.fembed.com/v/w3dl5un6rj0m3q6"
+ var link3 = "https://database.gdriveplayer.me/player.php?imdb=tt2015381"
 
  function link_1() {
  var x = document.getElementsByClassName("button_link");
