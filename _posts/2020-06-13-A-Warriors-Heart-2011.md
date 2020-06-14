@@ -15,7 +15,7 @@ tags:
 ---
 <link rel="stylesheet" type="text/css" href="/assets/css/player.css">
 
-<div class="title-movie" style=' text-align: center; font-weight: bold;' > A Warrior's Heart 2011 </div>
+<div id="title-movie" style='text-align: center; font-weight: bold;' > A Warrior's Heart 2011 </div>
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
