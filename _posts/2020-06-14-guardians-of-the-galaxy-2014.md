@@ -2,8 +2,8 @@
 date: 2020-06-14 08:30:00
 layout: post
 
-title: Guardians of the Galaxy
-description: A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.
+title: Thái Ất Tiên Ma Lục chi Linh Phi Kỷ
+description: Thái Ất Tiên Ma Lục chi Linh Phi Kỷ.
 image: /assets/img/uploads/guardians-of-the-galaxy-2014.jpg
 optimized_image: /assets/img/uploads/guardians-of-the-galaxy-2014.jpg
 category: movies
@@ -15,7 +15,7 @@ tags:
 ---
 <link rel="stylesheet" type="text/css" href="/assets/css/player.css">
 
-<div class="title-movie" style='text-align: center; font-weight: bold;'> Guardians of the Galaxy 2014 </div>
+<div class="title-movie" style='text-align: center; font-weight: bold;'> Thái Ất Tiên Ma Lục chi Linh Phi Kỷ </div>
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
@@ -153,11 +153,7 @@ src="https://playhydrax.com/?v=l6_lcXJFEG&sub=https://movies.xtapo.com/assets/su
 </script>
 
 
-### Synopsis
+### Giới thiệu  
 Thái Ất Tiên Ma Lục kể về đệ tử Huyền môn Thanh Thành phái Lãnh Sương Ngưng thiên tư trác tuyệt, vốn là người thừa kế chức vị Chưởng môn, do tu hành vấp phải chướng ngại, tới Thanh Ngọc Đàn để vấn đạo. Sau khi bất ngờ biết rằng tiền kiếp của bản thân có liên quan tới lần quyết chiến thứ hai tại Côn Luân đã một mình rời khỏi Thanh Thành Sơn nhằm tìm kiếm người có thể cải biến mệnh bàn kỳ lạ của nàng, giải khai bí ẩn về tiền thế. Tình cờ gặp phải mưu mô của Ma giáo, đồng thời cũng kết giao với những người đã định trong số mệnh, từ đó bắt đầu một cuộc hành trình tiên hiệp kỳ huyễn... Credit : Qin Team; TNCYV Fansub.      
 
-**Director**:  James Gunn.  
-
-**Writer**:  James Gunn, Nicole Perlman.   
-
-**Stars**:   Chris Pratt, Vin Diesel, Bradley Cooper ...      
+**Thể Loại**: Võ Thuật - Kiếm Hiệp, Hoạt Hình, Hoạt Hình Trung Quốc.  
