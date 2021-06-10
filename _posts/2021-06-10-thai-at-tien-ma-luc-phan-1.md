@@ -103,7 +103,7 @@ src="https://www.dailymotion.com/embed/video/k2NbL8oh94BwGZwWvkN" width="640"></
  var link1_10 = "//fileone.tv/v/60on28q56os6q"
  var link1_11 = "https://www.dailymotion.com/embed/video/k7h3bqKNcIQoeWwWvkN?quality=1080&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false"
 
- var link2_01 = "//ok.ru/videoembed/2499247934178"
+ var link2_01 = "https://playtube.ws/2a49ky083end.html"
  var link2_02 = "https://viupload.net/embed-cre0np3p3x06.html?auto=1"
  var link2_03 = "https://viupload.net/embed-akuu86fleska.html?auto=1"
  var link2_04 = "https://viupload.net/embed-3vu75gp20sup.html?auto=1"
@@ -127,7 +127,7 @@ src="https://www.dailymotion.com/embed/video/k2NbL8oh94BwGZwWvkN" width="640"></
  var link3_10 = "https://ninjastream.to/watch/r6qQNRK99QX7w"
  var link3_11 = "//fileone.tv/v/60p17o5so2733"
 
- var link4_01 = "https://ptube.cc/embed-2a49ky083end.html"
+ var link4_01 = "https://ninjastream.to/watch/aRvmODYgkAkGE"
  var link4_02 = "https://ptube.cc/embed-mbkmb6a4zoeb.html"
  var link4_03 = "https://ptube.cc/embed-05licuqmr8bz.html"
  var link4_04 = "https://ptube.cc/embed-90pc100w2vcy.html"
