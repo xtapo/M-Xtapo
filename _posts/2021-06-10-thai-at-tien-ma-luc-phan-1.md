@@ -1,12 +1,12 @@
 ---
-date: 2020-06-14 08:30:00
+date: 2021-06-10 08:30:00
 layout: post
 
 title: Thái Ất Tiên Ma Lục chi Linh Phi Kỷ
 description: Thái Ất Tiên Ma Lục chi Linh Phi Kỷ.
 image: /assets/img/uploads/guardians-of-the-galaxy-2014.jpg
 optimized_image: /assets/img/uploads/guardians-of-the-galaxy-2014.jpg
-category: movies
+category: anime
 tags:
  - Võ Thuật
  - Kiếm Hiệp
@@ -21,9 +21,16 @@ tags:
 
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
-src="https://playhydrax.com/?v=l6_lcXJFEG&sub=https://movies.xtapo.com/assets/sub/Guardians-of-the-Galaxy-2014.srt&sub-lang=English" width="640"></iframe>
+src="" width="640"></iframe>
 </div>
+<script type="text/javascript">
 
+$(function() {
+tap_moi();
+link_1();
+});
+
+</script>
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <button class="button_link" onclick="link_1()">Link 1</button>
