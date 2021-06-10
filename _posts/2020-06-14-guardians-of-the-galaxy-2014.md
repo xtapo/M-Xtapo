@@ -101,7 +101,7 @@ src="https://playhydrax.com/?v=l6_lcXJFEG&sub=https://movies.xtapo.com/assets/su
  var link1_08 = "//fileone.tv/v/60n4rs365ss14"
  var link1_09 = "//fileone.tv/v/60nr1nn269sq3"
  var link1_10 = "//fileone.tv/v/60on28q56os6q"
- var link1_11 = "https://www.dailymotion.com/embed/video/x81v29v?quality=1080&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false"
+ var link1_11 = "https://www.dailymotion.com/embed/video/k7h3bqKNcIQoeWwWvkN?quality=1080&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false"
 
  var link2_01 = "https://viupload.net/embed-939bazg8ldto.html?auto=1"
  var link2_02 = "https://viupload.net/embed-cre0np3p3x06.html?auto=1"
