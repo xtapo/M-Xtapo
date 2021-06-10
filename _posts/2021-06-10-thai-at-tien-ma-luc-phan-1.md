@@ -21,16 +21,9 @@ tags:
 
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
-src="" width="640"></iframe>
+src="https://dai.ly/k2NbL8oh94BwGZwWvkN" width="640"></iframe>
 </div>
-<script type="text/javascript">
 
-$(function() {
-tap_01();
-link_1();
-});
-
-</script>
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <button class="button_link" onclick="link_1()">Link 1</button>
@@ -98,7 +91,7 @@ link_1();
  {x[i].classList.remove("button_movie_clicked")}
  }
 
- var link1_01 = "https://www.dailymotion.com/embed/video/k7h3bqKNcIQoeWwWvkN?quality=1080&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false"
+ var link1_01 = "//fileone.tv/v/60n1p0511qqo9"
  var link1_02 = "//fileone.tv/v/60n1p06843n05"
  var link1_03 = "//fileone.tv/v/60n1p1160sn69"
  var link1_04 = "//fileone.tv/v/60n1pprsop90q"
