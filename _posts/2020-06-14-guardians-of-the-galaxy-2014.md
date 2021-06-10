@@ -8,10 +8,10 @@ image: /assets/img/uploads/guardians-of-the-galaxy-2014.jpg
 optimized_image: /assets/img/uploads/guardians-of-the-galaxy-2014.jpg
 category: movies
 tags:
- - Action
- - Adventure
- - Comedy
- - Sci-Fi
+ - Võ Thuật
+ - Kiếm Hiệp
+ - Hoạt Hình
+ - Hoạt Hình Trung Quốc
 ---
 <link rel="stylesheet" type="text/css" href="/assets/css/player.css">
 
@@ -154,7 +154,7 @@ src="https://playhydrax.com/?v=l6_lcXJFEG&sub=https://movies.xtapo.com/assets/su
 
 
 ### Synopsis
-After stealing a mysterious orb in the far reaches of outer space, Peter Quill from Earth is now the main target of a manhunt led by the villain known as Ronan the Accuser. To help fight Ronan and his team and save the galaxy from his power, Quill creates a team of space heroes known as the "Guardians of the Galaxy" to save the galaxy.      
+Thái Ất Tiên Ma Lục kể về đệ tử Huyền môn Thanh Thành phái Lãnh Sương Ngưng thiên tư trác tuyệt, vốn là người thừa kế chức vị Chưởng môn, do tu hành vấp phải chướng ngại, tới Thanh Ngọc Đàn để vấn đạo. Sau khi bất ngờ biết rằng tiền kiếp của bản thân có liên quan tới lần quyết chiến thứ hai tại Côn Luân đã một mình rời khỏi Thanh Thành Sơn nhằm tìm kiếm người có thể cải biến mệnh bàn kỳ lạ của nàng, giải khai bí ẩn về tiền thế. Tình cờ gặp phải mưu mô của Ma giáo, đồng thời cũng kết giao với những người đã định trong số mệnh, từ đó bắt đầu một cuộc hành trình tiên hiệp kỳ huyễn... Credit : Qin Team; TNCYV Fansub.      
 
 **Director**:  James Gunn.  
 
