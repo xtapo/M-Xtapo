@@ -115,7 +115,7 @@ src="https://www.dailymotion.com/embed/video/k2NbL8oh94BwGZwWvkN" width="640"></
  var link2_10 = "https://viupload.net/embed-nbpsvbefmebg.html?auto=1"
  var link2_11 = "https://www.youtube.com/embed/r0R8Cjrk5z4"
 
- var link3_01 = "https://ninjastream.to/watch/6RbAxPKpPAEvV"
+ var link3_01 = "https://www.instagram.com/tv/CP7k2WODDpf"
  var link3_02 = "https://ninjastream.to/watch/lWJQj810kmdXn"
  var link3_03 = "https://ninjastream.to/watch/5MVQGYDRlmEPj"
  var link3_04 = "https://ninjastream.to/watch/76VAqY88kAoqy"
