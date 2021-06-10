@@ -91,7 +91,7 @@ src="https://www.dailymotion.com/embed/video/k2NbL8oh94BwGZwWvkN" width="640"></
  {x[i].classList.remove("button_movie_clicked")}
  }
 
- var link1_01 = "//fileone.tv/v/60n1p0511qqo9"
+ var link1_01 = "https://www.dailymotion.com/embed/video/k2NbL8oh94BwGZwWvkN"
  var link1_02 = "//fileone.tv/v/60n1p06843n05"
  var link1_03 = "//fileone.tv/v/60n1p1160sn69"
  var link1_04 = "//fileone.tv/v/60n1pprsop90q"
@@ -103,7 +103,7 @@ src="https://www.dailymotion.com/embed/video/k2NbL8oh94BwGZwWvkN" width="640"></
  var link1_10 = "//fileone.tv/v/60on28q56os6q"
  var link1_11 = "https://www.dailymotion.com/embed/video/k7h3bqKNcIQoeWwWvkN?quality=1080&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false"
 
- var link2_01 = "https://viupload.net/embed-939bazg8ldto.html?auto=1"
+ var link2_01 = "//ok.ru/videoembed/2499247934178"
  var link2_02 = "https://viupload.net/embed-cre0np3p3x06.html?auto=1"
  var link2_03 = "https://viupload.net/embed-akuu86fleska.html?auto=1"
  var link2_04 = "https://viupload.net/embed-3vu75gp20sup.html?auto=1"
