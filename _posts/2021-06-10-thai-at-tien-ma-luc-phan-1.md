@@ -21,7 +21,7 @@ tags:
 
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
-src="https://dai.ly/k2NbL8oh94BwGZwWvkN" width="640"></iframe>
+src="https://www.dailymotion.com/embed/video/k2NbL8oh94BwGZwWvkN" width="640"></iframe>
 </div>
 
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
