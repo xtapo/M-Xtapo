@@ -115,7 +115,7 @@ src="https://www.dailymotion.com/embed/video/k2NbL8oh94BwGZwWvkN" width="640"></
  var link2_10 = "https://viupload.net/embed-nbpsvbefmebg.html?auto=1"
  var link2_11 = "https://www.youtube.com/embed/r0R8Cjrk5z4"
 
- var link3_01 = "https://www.instagram.com/tv/CP7k2WODDpf/?utm_source=ig_embed&amp;utm_campaign=loading"
+ var link3_01 = "//gdriveplayer.to/embed2.php?link=jg3ONYzUjkVoJK3XJA5zBwVAaaMV%252FlcQ2kdcVq83wCF4fdf3%252FdNUBE69G%252B%252BkPDgQp5%252FLXNqjhf9cmAt5P6%252BJk3p%252F2hbY7DtXvXMBVTPp%252FtCNpStgeWSIzh0C3ueZXFEXYGbsg8tA%252FRrsGeYkiR6yrCAFla8vk6qxNwDYF%252BoD71kqKkpMD7dy64iCJLFT15m5QRWNBewre9NLAKcGo8R%252B0yoXnPfWzUEcOhebBKCw5zpgJjUsR12QdpD%252F3TqR6YQc4%253D"
  var link3_02 = "https://ninjastream.to/watch/lWJQj810kmdXn"
  var link3_03 = "https://ninjastream.to/watch/5MVQGYDRlmEPj"
  var link3_04 = "https://ninjastream.to/watch/76VAqY88kAoqy"
