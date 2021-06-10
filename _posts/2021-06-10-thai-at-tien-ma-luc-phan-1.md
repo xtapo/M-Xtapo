@@ -26,7 +26,7 @@ src="" width="640"></iframe>
 <script type="text/javascript">
 
 $(function() {
-tap_moi();
+tap_01();
 link_1();
 });
 
