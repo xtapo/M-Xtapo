@@ -21,16 +21,16 @@ tags:
 
 <div class="video-wrapper">
 <iframe id="myframe" scrolling="no" allowfullscreen="" frameborder="0"  height="360"
-src="" width="640"></iframe>
-</div>
-<script type="text/javascript">
+src="<script type="text/javascript">
 
 $(function() {
 tap_01();
 link_1();
 });
 
-</script>
+</script>" width="640"></iframe>
+</div>
+
 <div style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'></div>
 
 <button class="button_link" onclick="link_1()">Link 1</button>
